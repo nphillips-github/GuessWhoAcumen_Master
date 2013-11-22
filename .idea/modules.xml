@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuessWhoAcumen/GuessWhoAcumen.iml" filepath="$PROJECT_DIR$/GuessWhoAcumen/GuessWhoAcumen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessWhoAcumen_Master.iml" filepath="$PROJECT_DIR$/GuessWhoAcumen_Master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/SalesforceSDK.iml" filepath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/SalesforceSDK.iml" />
+    </modules>
+  </component>
+</project>
+

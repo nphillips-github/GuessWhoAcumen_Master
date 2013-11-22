@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\nphillips\AndroidStudioProjects\GuessWhoAcumen_Master\forcedroid\native\SalesforceSDK\assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\nphillips\AndroidStudioProjects\GuessWhoAcumen_Master\forcedroid\native\SalesforceSDK\build-types\release\assets" />
+    </dataSet>
+
+</merger>

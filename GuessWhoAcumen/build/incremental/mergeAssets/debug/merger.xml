@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar" >
+        <source path="C:\Users\nphillips\AndroidStudioProjects\GuessWhoAcumen_Master\GuessWhoAcumen\build\exploded-bundles\GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\nphillips\AndroidStudioProjects\GuessWhoAcumen_Master\GuessWhoAcumen\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\nphillips\AndroidStudioProjects\GuessWhoAcumen_Master\GuessWhoAcumen\build-types\debug\assets" />
+    </dataSet>
+
+</merger>
