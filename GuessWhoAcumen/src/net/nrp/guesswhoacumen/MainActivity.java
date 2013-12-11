@@ -31,6 +31,7 @@ import java.util.ArrayList;
 
 import org.json.JSONArray;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -66,8 +67,8 @@ public class MainActivity extends SalesforceActivity {
 		findViewById(R.id.root).setVisibility(View.INVISIBLE);
 
 		// Create list adapter
-		listAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, new ArrayList<String>());
-		((ListView) findViewById(R.id.contacts_list)).setAdapter(listAdapter);				
+		//listAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, new ArrayList<String>());
+		//((ListView) findViewById(R.id.contacts_list)).setAdapter(listAdapter);
 		
 		super.onResume();
 	}		
@@ -97,7 +98,16 @@ public class MainActivity extends SalesforceActivity {
 	 */
 	public void onClearClick(View v) {
 		listAdapter.clear();
-	}	
+	}
+
+    public void onExitClick(View v){
+        finish();
+    }
+
+    public void navigateToGame(View v){
+        Intent intent = new Intent(this, PlayGame.class);
+        startActivity(intent);
+    }
 
 	/**
 	 * Called when "Fetch Contacts" button is clicked

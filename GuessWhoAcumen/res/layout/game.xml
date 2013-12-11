@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10">
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:src="@drawable/whologo"
+        android:layout_weight="1"
+    />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Who is this?"
+        android:textSize="35dp"/>
+
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:layout_weight="4"
+        android:paddingTop="15dip"
+        android:gravity="center_horizontal"
+        android:weightSum="5">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:padding="1dip"
+        android:gravity="right">
+
+        <Button
+            android:id="@+id/play_game"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        />
+
+        <Button
+            android:id="@+id/play_game"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_weight="3"
+        android:padding="1dip">
+
+        <Button
+        android:id="@+id/play_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        />
+
+        <Button
+            android:id="@+id/play_game"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        />
+    </LinearLayout>
+</LinearLayout>
+
+</LinearLayout>

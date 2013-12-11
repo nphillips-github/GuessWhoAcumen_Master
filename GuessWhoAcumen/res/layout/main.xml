@@ -6,24 +6,35 @@
 
 	<include layout="@layout/header" />
 
-	<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent"
+	<LinearLayout android:orientation="vertical" android:layout_width="fill_parent"
 	    android:layout_height="wrap_content">
-		<Button android:id="@+id/fetch_contacts" android:layout_width="wrap_content"
+
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:src="@drawable/whologo"
+            android:layout_weight="10"
+         />
+
+		<Button android:id="@+id/play_game" android:layout_width="match_parent"
 		      android:layout_height="wrap_content"
-		      android:onClick="onFetchContactsClick"
-		      android:text="@string/fetch_contacts_button" />
+		      android:onClick="navigateToGame"
+		      android:text="@string/play_game_button" />
 		
-		<Button android:id="@+id/fetch_accounts" android:layout_width="wrap_content"
+		<Button android:id="@+id/high_scores" android:layout_width="match_parent"
 		      android:layout_height="wrap_content"
 		      android:onClick="onFetchAccountsClick"
-		      android:text="@string/fetch_accounts_button" />		
+		      android:text="@string/high_scores_button" />
 	
-	    <Button android:id="@+id/clear" android:layout_width="wrap_content"
+	    <Button android:id="@+id/options" android:layout_width="match_parent"
 		      android:layout_height="wrap_content"
 		      android:onClick="onClearClick"
-		      android:text="@string/clear_button" />
+		      android:text="@string/options_button" />
+
+        <Button android:id="@+id/exit" android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onExitClick"
+            android:text="@string/exit_button" />
 	</LinearLayout>
-	
-	<ListView android:id="@+id/contacts_list" android:layout_width="fill_parent"
-	          android:layout_height="fill_parent" />
+
 </LinearLayout>
