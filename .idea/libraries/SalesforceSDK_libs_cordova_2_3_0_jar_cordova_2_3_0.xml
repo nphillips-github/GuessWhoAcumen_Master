@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SalesforceSDK-libs-cordova-2.3.0.jar-cordova-2.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/libs/cordova-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

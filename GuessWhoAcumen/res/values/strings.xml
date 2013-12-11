@@ -8,4 +8,15 @@
 	<string name="fetch_contacts_button">Fetch Contacts</string>
 	<string name="fetch_accounts_button">Fetch Accounts</string>
 	<string name="clear_button">Clear</string>
+
+    <string name="main_start_button">Start</string>
+    <string name="main_scores_button">High Scores</string>
+    <string name="main_options_button">Options</string>
+    <string name="main_exit_button">Exit</string>
+    <string name="answered_correctly">You got it right!</string>
+    <string name="answered_wrongly">You got it wrong!!!!</string>
+    <string name="answered_message">Continue?</string>
+    <string name="answered_dialog_positive">Yes</string>
+    <string name="answered_dialog_negative">No</string>
+    <string name="answer_value">ID Value</string>
 </resources>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SalesforceSDK-libs-guava-r09.jar-guava-r09">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/libs/guava-r09.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

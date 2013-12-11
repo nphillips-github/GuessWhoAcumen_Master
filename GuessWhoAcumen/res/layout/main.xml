@@ -1,29 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
 	android:orientation="vertical" android:layout_width="fill_parent"
-	android:layout_height="fill_parent" android:background="#454545"
-	android:id="@+id/root">
+	android:layout_height="fill_parent" android:background="#000000"
+	android:id="@+id/root"
+    >
 
-	<include layout="@layout/header" />
-
-	<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent"
-	    android:layout_height="wrap_content">
-		<Button android:id="@+id/fetch_contacts" android:layout_width="wrap_content"
-		      android:layout_height="wrap_content"
-		      android:onClick="onFetchContactsClick"
-		      android:text="@string/fetch_contacts_button" />
-		
-		<Button android:id="@+id/fetch_accounts" android:layout_width="wrap_content"
-		      android:layout_height="wrap_content"
-		      android:onClick="onFetchAccountsClick"
-		      android:text="@string/fetch_accounts_button" />		
-	
-	    <Button android:id="@+id/clear" android:layout_width="wrap_content"
-		      android:layout_height="wrap_content"
-		      android:onClick="onClearClick"
-		      android:text="@string/clear_button" />
-	</LinearLayout>
-	
-	<ListView android:id="@+id/contacts_list" android:layout_width="fill_parent"
-	          android:layout_height="fill_parent" />
+	<include layout="@layout/header"/>
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/frontPic"
+            android:src="@drawable/guesswhoacumen"
+            android:layout_weight=".4"/>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:paddingTop="10dip"
+            android:paddingBottom="5dip"
+            android:orientation="vertical"
+            android:layout_weight=".4">
+            <Button
+                android:id="@+id/btnStart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minWidth="180dip"
+                android:minHeight="30dip"
+                android:textSize="20dip"
+                android:paddingTop="5dip"
+                android:paddingBottom="5dip"
+                android:layout_marginBottom="5dip"
+                android:text="@string/main_start_button"
+                android:background="@drawable/menu_btn_drawable"
+                />
+            <Button
+                android:id="@+id/btnScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minWidth="180dip"
+                android:minHeight="30dip"
+                android:textSize="20dip"
+                android:paddingTop="5dip"
+                android:paddingBottom="5dip"
+                android:layout_marginBottom="5dip"
+                android:text="@string/main_scores_button"
+                android:background="@drawable/menu_btn_drawable"
+                />
+            <Button
+                android:id="@+id/btnOptions"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minWidth="180dip"
+                android:minHeight="30dip"
+                android:textSize="20dip"
+                android:paddingTop="5dip"
+                android:paddingBottom="5dip"
+                android:layout_marginBottom="5dip"
+                android:text="@string/main_options_button"
+                android:background="@drawable/menu_btn_drawable"
+                />
+            <Button
+                android:id="@+id/btnExit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minWidth="180dip"
+                android:minHeight="30dip"
+                android:textSize="20dip"
+                android:paddingTop="5dip"
+                android:paddingBottom="5dip"
+                android:text="@string/main_exit_button"
+                android:background="@drawable/menu_btn_drawable"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight=".5"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="Saved for Future Carousel"/>
+            </LinearLayout>
 </LinearLayout>

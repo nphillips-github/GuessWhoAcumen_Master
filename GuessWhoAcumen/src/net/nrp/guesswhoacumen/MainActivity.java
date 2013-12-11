@@ -26,15 +26,11 @@
  */
 package net.nrp.guesswhoacumen;
 
-import java.io.UnsupportedEncodingException;
-import java.util.ArrayList;
-
-import org.json.JSONArray;
-
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
-import android.widget.ListView;
+import android.widget.Button;
 import android.widget.Toast;
 
 import com.salesforce.androidsdk.app.SalesforceSDKManager;
@@ -44,21 +40,54 @@ import com.salesforce.androidsdk.rest.RestRequest;
 import com.salesforce.androidsdk.rest.RestResponse;
 import com.salesforce.androidsdk.ui.sfnative.SalesforceActivity;
 
+import net.nrp.viewmodel.Question;
+
+import org.json.JSONArray;
+
+import java.io.UnsupportedEncodingException;
+
 /**
  * Main activity
  */
-public class MainActivity extends SalesforceActivity {
+public class MainActivity extends SalesforceActivity
+{
 
     private RestClient client;
     private ArrayAdapter<String> listAdapter;
-	
-	@Override
+    public Question currentQuestion;
+    public View.OnClickListener exitClick = new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            finish();
+        }
+    };
+    public View.OnClickListener startClick = new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            Intent newAct = new Intent(MainActivity.this,QuizActivity.class);
+            MainActivity.this.startActivity(newAct);
+        }
+    };
+
+
+
+        @Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
 		// Setup view
 		setContentView(R.layout.main);
+            setOnclick();
 	}
+
+    protected void setOnclick()
+    {
+        Button ext = (Button)findViewById(R.id.btnExit);
+        ext.setOnClickListener(exitClick);
+        Button star = (Button)findViewById(R.id.btnStart);
+        star.setOnClickListener(startClick);
+
+    }
 	
 	@Override 
 	public void onResume() {
@@ -66,8 +95,8 @@ public class MainActivity extends SalesforceActivity {
 		findViewById(R.id.root).setVisibility(View.INVISIBLE);
 
 		// Create list adapter
-		listAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, new ArrayList<String>());
-		((ListView) findViewById(R.id.contacts_list)).setAdapter(listAdapter);				
+		//listAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, new ArrayList<String>());
+		//((ListView) findViewById(R.id.contacts_list)).setAdapter(listAdapter);
 		
 		super.onResume();
 	}		
@@ -89,35 +118,6 @@ public class MainActivity extends SalesforceActivity {
 	public void onLogoutClick(View v) {
 		SalesforceSDKManager.getInstance().logout(this);
 	}
-	
-	/**
-	 * Called when "Clear" button is clicked. 
-	 * 
-	 * @param v
-	 */
-	public void onClearClick(View v) {
-		listAdapter.clear();
-	}	
-
-	/**
-	 * Called when "Fetch Contacts" button is clicked
-	 * 
-	 * @param v
-	 * @throws UnsupportedEncodingException 
-	 */
-	public void onFetchContactsClick(View v) throws UnsupportedEncodingException {
-        sendRequest("SELECT Name FROM Contact");
-	}
-
-	/**
-	 * Called when "Fetch Accounts" button is clicked
-	 * 
-	 * @param v
-	 * @throws UnsupportedEncodingException 
-	 */
-	public void onFetchAccountsClick(View v) throws UnsupportedEncodingException {
-		sendRequest("SELECT Name FROM Account");
-	}	
 	
 	private void sendRequest(String soql) throws UnsupportedEncodingException {
 		RestRequest restRequest = RestRequest.getRequestForQuery(getString(R.string.api_version), soql);

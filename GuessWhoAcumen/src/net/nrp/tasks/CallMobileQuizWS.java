@@ -8,6 +8,7 @@ import com.salesforce.androidsdk.rest.RestRequest;
 import com.salesforce.androidsdk.rest.RestResponse;
 
 import net.nrp.datamodels.Person;
+import net.nrp.interfaces.iAsyncTaskAction;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -19,11 +20,12 @@ import java.util.ArrayList;
  */
 public class CallMobileQuizWS extends AsyncTask<Void,Void,String> {
     public RestClient rc;
+    public iAsyncTaskAction<ArrayList<Person>> handle;
 
-    public CallMobileQuizWS(RestClient res)
+    public CallMobileQuizWS(RestClient res, iAsyncTaskAction<ArrayList<Person>> action)
     {
         rc = res;
-
+        handle = action;
     }
 
 
@@ -51,7 +53,7 @@ public class CallMobileQuizWS extends AsyncTask<Void,Void,String> {
     protected void onPostExecute(String response) {
         try{
             if (response!=null) {
-                LoadPerson(response);
+                handle.execute(LoadPerson(response));
             }
         }
         catch (Exception e)

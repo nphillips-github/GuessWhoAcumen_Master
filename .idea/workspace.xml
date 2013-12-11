@@ -1,12 +1,448 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
   <component name="AndroidLayouts">
     <shared>
       <config />
     </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml">
+        <config>
+          <device>Nexus One</device>
+          <theme>@android:style/Theme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/quiz_layout.xml">
+        <config>
+          <device>Nexus One</device>
+          <theme>@android:style/Theme</theme>
+        </config>
+      </layout>
+    </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a220e2f-f9f3-497c-9811-863d21431e3c" name="Default" comment="" />
+    <list default="true" id="2a220e2f-f9f3-497c-9811-863d21431e3c" name="Default" comment="Added Two Asynch Task for Loading Webservice and Loading Images&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-hdpi/guesswhoacumen.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-mdpi/guesswhoacumen.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xhdpi/guesswhoacumen.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xxhdpi/guesswhoacumen.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/drawable-hdpi/guesswhoacumen.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/drawable-mdpi/guesswhoacumen.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/drawable-xhdpi/guesswhoacumen.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/drawable-xxhdpi/guesswhoacumen.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/javaResources/debug/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/AnswerOption.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ComAndroidSupportAppcompatV71900_aar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified_aar_libs_android_junit_report_1_2_6_jar_android_junit_report_1_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified_aar_libs_apache_mime4j_0_6_jar_apache_mime4j_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified_aar_libs_cordova_2_3_0_jar_cordova_2_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified_aar_libs_guava_r09_jar_guava_r09.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified_aar_libs_httpmime_4_0_3_jar_httpmime_4_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified_aar_libs_volley_android_4_3_r2_1_jar_volley_android_4_3_r2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/Question.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/QuizActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SalesforceSDK_libs_android_junit_report_1_2_6_jar_android_junit_report_1_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SalesforceSDK_libs_apache_mime4j_0_6_jar_apache_mime4j_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SalesforceSDK_libs_cordova_2_3_0_jar_cordova_2_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SalesforceSDK_libs_guava_r09_jar_guava_r09.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SalesforceSDK_libs_httpmime_4_0_3_jar_httpmime_4_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SalesforceSDK_libs_volley_android_4_3_r2_1_jar_volley_android_4_3_r2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout-v11/abc_action_bar_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_decor_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_decor_overlay.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_tab.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_tabbar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_title_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_view_list_nav_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_mode_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_mode_close_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_activity_chooser_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout-v14/abc_activity_chooser_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_activity_chooser_view_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_activity_chooser_view_list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_expanded_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_fade_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_fade_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_ic_clear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_ic_clear_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_item_background_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_item_background_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_list_menu_item_checkbox.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_list_menu_item_icon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_list_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_list_menu_item_radio.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_list_selector_background_transition_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_list_selector_background_transition_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_list_selector_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_list_selector_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_popup_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_search_dropdown_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_search_dropdown_item_icons_2line.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_search_dropdown_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/color/abc_search_url_text_holo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_search_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_slide_in_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_slide_in_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_slide_out_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_slide_out_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_spinner_ab_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_spinner_ab_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_tab_indicator_ab_holo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_textfield_searchview_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_textfield_searchview_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_textfield_searchview_right_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_textfield_searchview_right_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forcedroid/forcedroid.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/interfaces/iAsyncTaskAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable/menu_btn_drawable.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/drawable/menu_btn_drawable.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forcedroid/native/native.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/res/layout/quiz_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/support_simple_spinner_dropdown_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_19_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-af/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-am/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ar/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-bg/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ca/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-cs/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-da/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-de/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-el/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-en-rGB/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-en-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-es/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-es-rUS/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-et-rEE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-fa/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-fi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-fr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-fr-rCA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-hi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-hr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-hu/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-hy-rAM/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-in/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-it/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-iw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ja/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ka-rGE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-km-rKH/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ko/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-land/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-large/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-lo-rLA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-lt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-lv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-mn-rMN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ms-rMY/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-nb/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-nl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-pl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-pt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-pt-rPT/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ro/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ru/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sw600dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-th/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-tl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-tr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-uk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-v11/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-v14/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-vi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w360dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w480dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w500dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w600dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w720dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-xlarge/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-zh-rCN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-zh-rHK/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-zh-rTW/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-zu/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/classes.jar" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/source/buildConfig/debug/net/nrp/guesswhoacumen/BuildConfig.java" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/source/buildConfig/debug/net/nrp/guesswhoacumen/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/buildConfig/debug/com/salesforce/androidsdk/BuildConfig.java" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/buildConfig/debug/com/salesforce/androidsdk/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/buildConfig/release/com/salesforce/androidsdk/BuildConfig.java" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/buildConfig/release/com/salesforce/androidsdk/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/CallMobileQuizWS.java" afterPath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/CallMobileQuizWS.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/GuessWhoAcumen.iml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/GuessWhoAcumen.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen_Master.iml" afterPath="$PROJECT_DIR$/GuessWhoAcumen_Master.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/LoadImageTask.java" afterPath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/LoadImageTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java" afterPath="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/source/r/debug/com/salesforce/androidsdk/R.java" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/source/r/debug/com/salesforce/androidsdk/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/source/r/debug/net/nrp/guesswhoacumen/R.java" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/source/r/debug/net/nrp/guesswhoacumen/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/r/debug/com/salesforce/androidsdk/R.java" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/r/debug/com/salesforce/androidsdk/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/r/release/com/salesforce/androidsdk/R.java" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/r/release/com/salesforce/androidsdk/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/R.txt" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/SalesforceSDK.iml" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/SalesforceSDK.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/authenticator.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/authenticator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build.gradle" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/config.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/res/layout/header.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/res/layout/header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/servers.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/servers.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/menu/sf__clear_custom_url.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/menu/sf__clear_custom_url.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__custom_server_url.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__custom_server_url.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__header_bottom.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__header_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_drop_shadow.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_drop_shadow.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_left_border.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_left_border.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_refresh_states.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_refresh_states.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_right_border.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_right_border.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__header_separator.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__header_separator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__login.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__login.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/menu/sf__login.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/menu/sf__login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__login_content_header.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__login_content_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__login_header.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__login_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__manage_space.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__manage_space.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__passcode.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__passcode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-land/sf__passcode.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-land/sf__passcode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__passcode.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__passcode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable/sf__progress_spinner.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable/sf__progress_spinner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__progress_spinner.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__progress_spinner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__server_picker.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__server_picker.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__server_picker.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__server_picker.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__server_picker_header.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__server_picker_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__server_picker_list.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__server_picker_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable/sf__toolbar_background.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable/sf__toolbar_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__toolbar_background.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__toolbar_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/res/values/strings.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/values/values.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/values-xlarge/values.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/values-xlarge/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="GuessWhoAcumen_Master.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,19 +505,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bootconfig.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
+      <file leaf-file-name="AnswerOption.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/AnswerOption.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.26741573" vertical-offset="0" max-vertical-offset="445">
+            <state line="14" column="5" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="servers.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
+            <state line="62" column="40" selection-start="2655" selection-end="2655" vertical-scroll-proportion="0.0" vertical-offset="591" max-vertical-offset="1547">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iAsyncTaskAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/interfaces/iAsyncTaskAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="34" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="118" column="56" selection-start="4115" selection-end="4115" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="1734">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuizActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/QuizActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="187" column="22" selection-start="6304" selection-end="6304" vertical-scroll-proportion="1.0347648" vertical-offset="2469" max-vertical-offset="3162">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2867#2888#0" expanded="true" />
+                <element signature="e#3967#3988#0" expanded="true" />
+                <element signature="e#4029#4050#0" expanded="true" />
+                <element signature="e#4091#4112#0" expanded="true" />
+                <element signature="e#4153#4174#0" expanded="true" />
+                <element signature="e#4497#4518#0" expanded="true" />
+                <element signature="e#5264#5291#0" expanded="true" />
+                <element signature="e#5293#5318#0" expanded="true" />
+                <element signature="e#5378#5403#0" expanded="true" />
+                <element signature="e#5405#5430#0" expanded="true" />
+                <element signature="e#5690#5723#0" expanded="true" />
+                <element signature="e#5969#6002#0" expanded="true" />
+                <element signature="e#6004#6221#0" expanded="true" />
+                <element signature="e#6210#6211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="36" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quiz_layout.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/quiz_layout.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="41" selection-start="1005" selection-end="1005" vertical-scroll-proportion="-8.36" vertical-offset="216" max-vertical-offset="1003">
               <folding />
             </state>
           </provider>
@@ -119,6 +622,14 @@
           </key>
           <value>
             <list>
+              <ExternalProjectPojo>
+                <option name="name" value="forcedroid" />
+                <option name="path" value="$PROJECT_DIR$/forcedroid" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="native" />
+                <option name="path" value="$PROJECT_DIR$/forcedroid/native" />
+              </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value="SalesforceSDK" />
                 <option name="path" value="$PROJECT_DIR$/forcedroid/native/SalesforceSDK" />
@@ -360,6 +871,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GuessWhoAcumen" />
                 <option name="name" value="preTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:19.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GuessWhoAcumen" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV71900Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GuessWhoAcumen" />
@@ -789,6 +1305,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="1384990134232" />
+        <entry key="C:\Users\mchin\AndroidStudioProjects\nphillips\GuessWhoAcumen_Master" value="1386259664180" />
         <entry key="C:\Users\nphillips\AndroidStudioProjects\GuessWhoAcumen_Master" value="1384990518296" />
       </map>
     </option>
@@ -796,15 +1313,32 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml" />
         <option value="$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml" />
+        <option value="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/interfaces/AsyncTaskAction.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/datamodels/Person.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/actions/LoadQuizAction.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/interfaces/iAsyncTaskAction.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/CallMobileQuizWS.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/LoadImageTask.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/Question.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/AnswerOption.java" />
+        <option value="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/drawable/menu_btn_drawable.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/res/layout/header.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/main/res/layout/quiz_layout.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/res/layout/quiz_layout.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/QuizActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1452" />
+    <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -849,8 +1383,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -859,8 +1391,262 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nrp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viewmodel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nrp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nrp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interfaces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nrp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guesswhoacumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nrp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datamodels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nrp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forcedroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forcedroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="native" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -880,6 +1666,17 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/GuessWhoAcumen" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Bowl" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mchin\AndroidStudioProjects\nphillips\GuessWhoAcumen_Master\GuessWhoAcumen\res\layout" />
+      <recent name="C:\Users\mchin\AndroidStudioProjects\nphillips\GuessWhoAcumen_Master\GuessWhoAcumen\res\drawable-hdpi" />
+      <recent name="C:\Users\mchin\AndroidStudioProjects\nphillips\GuessWhoAcumen_Master\GuessWhoAcumen\res\drawable-mdpi" />
+      <recent name="C:\Users\mchin\AndroidStudioProjects\nphillips\GuessWhoAcumen_Master\GuessWhoAcumen\res\drawable-xhdpi" />
+      <recent name="C:\Users\mchin\AndroidStudioProjects\nphillips\GuessWhoAcumen_Master\GuessWhoAcumen\res\drawable-xxhdpi" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.GuessWhoAcumen">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -910,19 +1707,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -948,6 +1732,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -989,6 +1786,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -1007,6 +1805,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -1034,6 +1833,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -1057,38 +1861,59 @@
       <created>1384990581652</created>
       <updated>1384990581652</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reverted Server Hack">
+      <created>1386272474378</created>
+      <updated>1386272474378</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Two Asynch Task for Loading Webservice and Loading Images&#10;//Comment - Don't get too attached.  I am experimenting with ways to make them more generic.&#10;">
+      <created>1386354796539</created>
+      <updated>1386354796539</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding A data object&#10;">
+      <created>1386355258360</created>
+      <updated>1386355258360</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1452" height="876" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24722221" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3077957" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32795697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39280576" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16319445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1097,11 +1922,277 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Reverted Server Hack" />
+    <MESSAGE value="Added Two Asynch Task for Loading Webservice and Loading Images&#10;//Comment - Don't get too attached.  I am experimenting with ways to make them more generic.&#10;" />
+    <MESSAGE value="Adding A data object&#10;" />
+    <MESSAGE value="Added Two Asynch Task for Loading Webservice and Loading Images&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Two Asynch Task for Loading Webservice and Loading Images&#10;" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/AnswerOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="40" selection-start="2655" selection-end="2655" vertical-scroll-proportion="0.0" vertical-offset="591" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/interfaces/iAsyncTaskAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="56" selection-start="4115" selection-end="4115" vertical-scroll-proportion="0.0" vertical-offset="2006" max-vertical-offset="2601">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/QuizActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="8" selection-start="3776" selection-end="3776" vertical-scroll-proportion="0.0" vertical-offset="1853" max-vertical-offset="2669">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2867#2888#0" expanded="true" />
+            <element signature="e#3967#3988#0" expanded="true" />
+            <element signature="e#4029#4050#0" expanded="true" />
+            <element signature="e#4091#4112#0" expanded="true" />
+            <element signature="e#4153#4174#0" expanded="true" />
+            <element signature="e#4497#4518#0" expanded="true" />
+            <element signature="e#5264#5291#0" expanded="true" />
+            <element signature="e#5293#5318#0" expanded="true" />
+            <element signature="e#5378#5403#0" expanded="true" />
+            <element signature="e#5405#5430#0" expanded="true" />
+            <element signature="e#5690#5723#0" expanded="true" />
+            <element signature="e#5969#6002#0" expanded="true" />
+            <element signature="e#6004#6221#0" expanded="true" />
+            <element signature="e#6210#6211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/quiz_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="48" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="54" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/AnswerOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="40" selection-start="2655" selection-end="2655" vertical-scroll-proportion="0.0" vertical-offset="591" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/interfaces/iAsyncTaskAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="0" selection-start="2684" selection-end="4911" vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="3876">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/QuizActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="50" selection-start="4659" selection-end="4676" vertical-scroll-proportion="0.0" vertical-offset="2363" max-vertical-offset="3043">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2867#2888#0" expanded="true" />
+            <element signature="e#3967#3988#0" expanded="true" />
+            <element signature="e#4029#4050#0" expanded="true" />
+            <element signature="e#4091#4112#0" expanded="true" />
+            <element signature="e#4153#4174#0" expanded="true" />
+            <element signature="e#4497#4518#0" expanded="true" />
+            <element signature="e#5264#5291#0" expanded="true" />
+            <element signature="e#5293#5318#0" expanded="true" />
+            <element signature="e#5378#5403#0" expanded="true" />
+            <element signature="e#5405#5430#0" expanded="true" />
+            <element signature="e#5690#5723#0" expanded="true" />
+            <element signature="e#5969#6002#0" expanded="true" />
+            <element signature="e#6004#6221#0" expanded="true" />
+            <element signature="e#6210#6211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/quiz_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="47" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0" vertical-offset="251" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/CallMobileQuizWS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="36" selection-start="2282" selection-end="2282" vertical-scroll-proportion="0.0" vertical-offset="1513" max-vertical-offset="1802">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1542#1550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/LoadImageTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="9" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="5" selection-start="4900" selection-end="4900" vertical-scroll-proportion="0.0" vertical-offset="2465" max-vertical-offset="2601">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="44" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/datamodels/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="27" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/interfaces/iAsyncTaskAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="41" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/CallMobileQuizWS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="65" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="814" max-vertical-offset="1836">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1542#1550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/LoadImageTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="36" selection-start="5280" selection-end="5280" vertical-scroll-proportion="0.0" vertical-offset="2669" max-vertical-offset="2856">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/datamodels/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="27" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/interfaces/iAsyncTaskAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="11" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="19" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
@@ -1111,29 +2202,157 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="45" selection-start="664" selection-end="664" vertical-scroll-proportion="0.37199125" vertical-offset="136" max-vertical-offset="714">
+        <state line="7" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+        <state line="2" column="2" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/datamodels/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="27" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/graphics/Bitmap.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.26741573" vertical-offset="0" max-vertical-offset="445">
+        <state line="6" column="19" selection-start="146" selection-end="207" vertical-scroll-proportion="0.120567374" vertical-offset="0" max-vertical-offset="2244" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="54" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/drawable/menu_btn_drawable.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="479" selection-end="479" vertical-scroll-proportion="0.3447738" vertical-offset="0" max-vertical-offset="641" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="79" selection-start="3122" selection-end="3122" vertical-scroll-proportion="0.62870514" vertical-offset="736" max-vertical-offset="1377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/header.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="744" selection-end="744" vertical-scroll-proportion="-10.88" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="40" selection-start="2655" selection-end="2655" vertical-scroll-proportion="0.0" vertical-offset="591" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="46" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="782">
+          <folding>
+            <element signature="e#304#322#0" expanded="true" />
+            <element signature="e#530#548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/LoadImageTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="5" selection-start="1276" selection-end="1276" vertical-scroll-proportion="1.0695297" vertical-offset="208" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/CallMobileQuizWS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="20" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.26993865" vertical-offset="684" max-vertical-offset="1836">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1542#1550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/viewmodel/AnswerOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/interfaces/iAsyncTaskAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="56" selection-start="4115" selection-end="4115" vertical-scroll-proportion="0.0" vertical-offset="1228" max-vertical-offset="1870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/quiz_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="41" selection-start="1005" selection-end="1005" vertical-scroll-proportion="-8.36" vertical-offset="216" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="36" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/QuizActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="22" selection-start="6304" selection-end="6304" vertical-scroll-proportion="1.0347648" vertical-offset="2469" max-vertical-offset="3162">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2867#2888#0" expanded="true" />
+            <element signature="e#3967#3988#0" expanded="true" />
+            <element signature="e#4029#4050#0" expanded="true" />
+            <element signature="e#4091#4112#0" expanded="true" />
+            <element signature="e#4153#4174#0" expanded="true" />
+            <element signature="e#4497#4518#0" expanded="true" />
+            <element signature="e#5264#5291#0" expanded="true" />
+            <element signature="e#5293#5318#0" expanded="true" />
+            <element signature="e#5378#5403#0" expanded="true" />
+            <element signature="e#5405#5430#0" expanded="true" />
+            <element signature="e#5690#5723#0" expanded="true" />
+            <element signature="e#5969#6002#0" expanded="true" />
+            <element signature="e#6004#6221#0" expanded="true" />
+            <element signature="e#6210#6211#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1177,7 +2396,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>Android API 11 Platform</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
