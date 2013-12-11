@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/GuessWhoAcumen/GuessWhoAcumen.iml" filepath="$PROJECT_DIR$/GuessWhoAcumen/GuessWhoAcumen.iml" />
       <module fileurl="file://$PROJECT_DIR$/GuessWhoAcumen_Master.iml" filepath="$PROJECT_DIR$/GuessWhoAcumen_Master.iml" />
       <module fileurl="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/SalesforceSDK.iml" filepath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/SalesforceSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forcedroid/forcedroid.iml" filepath="$PROJECT_DIR$/forcedroid/forcedroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forcedroid/native/native.iml" filepath="$PROJECT_DIR$/forcedroid/native/native.iml" />
     </modules>
   </component>
 </project>

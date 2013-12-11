@@ -24,4 +24,4 @@
     <plugin name="com.salesforce.oauth" value="com.salesforce.androidsdk.phonegap.SalesforceOAuthPlugin"/>
     <plugin name="com.salesforce.sdkinfo" value="com.salesforce.androidsdk.phonegap.SDKInfoPlugin"/>
 </plugins>
-<!-- From: file:/C:/Users/nphillips/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/xml/config.xml -->
+<!-- From: file:/C:/Users/jbryant/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/xml/config.xml -->

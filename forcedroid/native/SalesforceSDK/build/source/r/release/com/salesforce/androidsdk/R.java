@@ -85,6 +85,7 @@ public final class R {
         public static int sf__progress_spinner=0x7f02000f;
         public static int sf__refresh_loader=0x7f020010;
         public static int sf__toolbar_background=0x7f020011;
+        public static int whologo=0x7f020012;
     }
     public static final class id {
         public static int manage_space_layout=0x7f0b0010;

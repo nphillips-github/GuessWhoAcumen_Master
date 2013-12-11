@@ -27,4 +27,4 @@
             style="@style/SalesforceSDK.Passcode.Text.Instructions"
             android:visibility="invisible" />
     </LinearLayout>
-</RelativeLayout><!-- From: file:/C:/Users/nphillips/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/layout-land/sf__passcode.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/jbryant/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/layout-land/sf__passcode.xml -->

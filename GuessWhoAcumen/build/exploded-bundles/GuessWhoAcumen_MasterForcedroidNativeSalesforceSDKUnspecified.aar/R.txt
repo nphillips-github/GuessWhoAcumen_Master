@@ -66,6 +66,7 @@ int drawable sf__oauth_container_dropshadow 0x7f02000e
 int drawable sf__progress_spinner 0x7f02000f
 int drawable sf__refresh_loader 0x7f020010
 int drawable sf__toolbar_background 0x7f020011
+int drawable whologo 0x7f020012
 int id manage_space_layout 0x7f0b0010
 int id sf__apply_button 0x7f0b0003
 int id sf__auth_container 0x7f0b0016

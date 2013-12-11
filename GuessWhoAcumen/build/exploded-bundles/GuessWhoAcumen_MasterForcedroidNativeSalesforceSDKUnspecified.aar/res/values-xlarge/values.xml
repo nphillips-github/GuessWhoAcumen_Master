@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/nphillips/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/values-xlarge/sf__colors.xml -->
+    <!-- From: file:/C:/Users/jbryant/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/values-xlarge/sf__colors.xml -->
     <eat-comment />
 
     <color name="sf__header_gap_bg">#74777F</color>
     <color name="sf__server_picker_bg">#FFFFFF</color>
     <color name="sf__title_bg">#215F84</color>
     <color name="sf__title_text">#ffffff</color>
-    <!-- From: file:/C:/Users/nphillips/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/values-xlarge/sf__dimens.xml -->
+    <!-- From: file:/C:/Users/jbryant/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/values-xlarge/sf__dimens.xml -->
     <eat-comment />
 
     <dimen name="sf__custom_url_margin_top">7dp</dimen>
@@ -33,7 +33,7 @@
     <dimen name="sf__title_text_height">51dp</dimen>
     <dimen name="sf__title_text_size">20sp</dimen>
     <dimen name="sf__title_text_width">408dp</dimen>
-    <!-- From: file:/C:/Users/nphillips/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/values-xlarge/sf__styles.xml -->
+    <!-- From: file:/C:/Users/jbryant/AndroidStudioProjects/GuessWhoAcumen_Master/forcedroid/native/SalesforceSDK/res/values-xlarge/sf__styles.xml -->
     <eat-comment />
 
     <style name="SalesforceSDK.Header"></style>

@@ -1,12 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
   <component name="AndroidLayouts">
     <shared>
       <config />
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a220e2f-f9f3-497c-9811-863d21431e3c" name="Default" comment="" />
+    <list default="true" id="2a220e2f-f9f3-497c-9811-863d21431e3c" name="Default" comment="Added layout and simple navigation">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/classes.jar" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/source/buildConfig/debug/net/nrp/guesswhoacumen/BuildConfig.java" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/source/buildConfig/debug/net/nrp/guesswhoacumen/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/buildConfig/debug/com/salesforce/androidsdk/BuildConfig.java" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/buildConfig/debug/com/salesforce/androidsdk/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/buildConfig/release/com/salesforce/androidsdk/BuildConfig.java" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/buildConfig/release/com/salesforce/androidsdk/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/GuessWhoAcumen.iml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/GuessWhoAcumen.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen_Master.iml" afterPath="$PROJECT_DIR$/GuessWhoAcumen_Master.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/source/r/debug/com/salesforce/androidsdk/R.java" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/source/r/debug/com/salesforce/androidsdk/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/source/r/debug/net/nrp/guesswhoacumen/R.java" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/source/r/debug/net/nrp/guesswhoacumen/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/r/debug/com/salesforce/androidsdk/R.java" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/r/debug/com/salesforce/androidsdk/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/r/release/com/salesforce/androidsdk/R.java" afterPath="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/build/source/r/release/com/salesforce/androidsdk/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/R.txt" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/authenticator.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/authenticator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/config.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/servers.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/xml/servers.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/menu/sf__clear_custom_url.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/menu/sf__clear_custom_url.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__custom_server_url.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__custom_server_url.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__header_bottom.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__header_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_drop_shadow.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_drop_shadow.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_left_border.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_left_border.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_refresh_states.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_refresh_states.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_right_border.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__header_right_border.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__header_separator.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__header_separator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__login.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__login.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/menu/sf__login.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/menu/sf__login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__login_content_header.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__login_content_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__login_header.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__login_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__manage_space.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__manage_space.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__passcode.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__passcode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-land/sf__passcode.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-land/sf__passcode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__passcode.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__passcode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable/sf__progress_spinner.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable/sf__progress_spinner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__progress_spinner.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__progress_spinner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__server_picker.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__server_picker.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__server_picker.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__server_picker.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__server_picker_header.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout-xlarge/sf__server_picker_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__server_picker_list.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/layout/sf__server_picker_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable/sf__toolbar_background.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable/sf__toolbar_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__toolbar_background.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/drawable-xlarge/sf__toolbar_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/values/values.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/values-xlarge/values.xml" afterPath="$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/values-xlarge/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="GuessWhoAcumen_Master.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,10 +121,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bootconfig.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.26741573" vertical-offset="0" max-vertical-offset="445">
+            <state line="25" column="52" selection-start="1026" selection-end="1026" vertical-scroll-proportion="-10.88" vertical-offset="153" max-vertical-offset="782">
+              <folding>
+                <element signature="e#826#852#0" expanded="true" />
+                <element signature="e#1048#1076#0" expanded="true" />
+                <element signature="e#1262#1286#0" expanded="true" />
+                <element signature="e#1482#1503#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="132" column="95" selection-start="4325" selection-end="4345" vertical-scroll-proportion="-10.76" vertical-offset="1975" max-vertical-offset="2771">
+              <folding>
+                <element signature="e#0#5135#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="9" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="799">
+              <folding>
+                <element signature="e#304#322#0" expanded="true" />
+                <element signature="e#530#548#0" expanded="true" />
+                <element signature="e#868#886#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayGame.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/PlayGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="21" selection-start="289" selection-end="289" vertical-scroll-proportion="0.4117647" vertical-offset="0" max-vertical-offset="578">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/datamodels/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/game.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="31" selection-start="751" selection-end="751" vertical-scroll-proportion="-8.16" vertical-offset="204" max-vertical-offset="1343">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CallMobileQuizWS.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/CallMobileQuizWS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="40" selection-start="1273" selection-end="1283" vertical-scroll-proportion="-26.88" vertical-offset="382" max-vertical-offset="1802">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="44" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
@@ -81,7 +218,7 @@
       <file leaf-file-name="servers.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
+            <state line="4" column="10" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
               <folding />
             </state>
           </provider>
@@ -119,6 +256,14 @@
           </key>
           <value>
             <list>
+              <ExternalProjectPojo>
+                <option name="name" value="forcedroid" />
+                <option name="path" value="$PROJECT_DIR$/forcedroid" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="native" />
+                <option name="path" value="$PROJECT_DIR$/forcedroid/native" />
+              </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value="SalesforceSDK" />
                 <option name="path" value="$PROJECT_DIR$/forcedroid/native/SalesforceSDK" />
@@ -789,6 +934,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="1384990134232" />
+        <entry key="C:\Users\jbryant\AndroidStudioProjects\GuessWhoAcumen_Master" value="1385078996662" />
         <entry key="C:\Users\nphillips\AndroidStudioProjects\GuessWhoAcumen_Master" value="1384990518296" />
       </map>
     </option>
@@ -798,14 +944,21 @@
       <list>
         <option value="$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml" />
         <option value="$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/GuessWhoAcumenApp.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/res/layout/game.xml" />
+        <option value="$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/PlayGame.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1452" />
-    <option name="height" value="876" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -849,8 +1002,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -859,8 +1010,156 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nrp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nrp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guesswhoacumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nrp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datamodels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen_Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuessWhoAcumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -879,7 +1178,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GuessWhoAcumen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Android Application.GuessWhoAcumen">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -989,6 +1288,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -1007,6 +1307,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -1057,31 +1358,59 @@
       <created>1384990581652</created>
       <updated>1384990581652</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added layout and simple navigation">
+      <created>1386785545386</created>
+      <updated>1386785545386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1452" height="876" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24412394" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26304108" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39280576" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2716115" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1090,6 +1419,11 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -1097,11 +1431,73 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Added layout and simple navigation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added layout and simple navigation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="35" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="8" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="595">
+          <folding>
+            <element signature="e#826#852#0" expanded="true" />
+            <element signature="e#1048#1076#0" expanded="true" />
+            <element signature="e#1262#1286#0" expanded="true" />
+            <element signature="e#1482#1503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/game.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="47" selection-start="1127" selection-end="1128" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="44" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="10" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="19" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
@@ -1116,24 +1512,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="45" selection-start="664" selection-end="664" vertical-scroll-proportion="0.37199125" vertical-offset="136" max-vertical-offset="714">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="873">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/res/xml/servers.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+        <state line="4" column="10" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/bootconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.26741573" vertical-offset="0" max-vertical-offset="445">
+        <state line="11" column="35" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="44" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/LoadImageTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="646" selection-end="646" vertical-scroll-proportion="0.44117647" vertical-offset="85" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/KeyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="1" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.47058824" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/GuessWhoAcumenApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="57" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.5588235" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/game.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="31" selection-start="751" selection-end="751" vertical-scroll-proportion="-8.16" vertical-offset="204" max-vertical-offset="1343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="9" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="799">
+          <folding>
+            <element signature="e#304#322#0" expanded="true" />
+            <element signature="e#530#548#0" expanded="true" />
+            <element signature="e#868#886#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="95" selection-start="4325" selection-end="4345" vertical-scroll-proportion="-10.76" vertical-offset="1975" max-vertical-offset="2771">
+          <folding>
+            <element signature="e#0#5135#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/tasks/CallMobileQuizWS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="40" selection-start="1273" selection-end="1283" vertical-scroll-proportion="-26.88" vertical-offset="382" max-vertical-offset="1802">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/datamodels/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="52" selection-start="1026" selection-end="1026" vertical-scroll-proportion="-10.88" vertical-offset="153" max-vertical-offset="782">
+          <folding>
+            <element signature="e#826#852#0" expanded="true" />
+            <element signature="e#1048#1076#0" expanded="true" />
+            <element signature="e#1262#1286#0" expanded="true" />
+            <element signature="e#1482#1503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forcedroid/native/SalesforceSDK/SalesforceSDK.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="53" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.3529412" vertical-offset="255" max-vertical-offset="1428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen_Master.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="705" selection-end="705" vertical-scroll-proportion="0.44117647" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/build/exploded-bundles/GuessWhoAcumen_MasterForcedroidNativeSalesforceSDKUnspecified.aar/res/values-xlarge/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="52" selection-start="104" selection-end="104" vertical-scroll-proportion="0.09222423" vertical-offset="0" max-vertical-offset="2550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessWhoAcumen/src/net/nrp/guesswhoacumen/PlayGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="289" selection-end="289" vertical-scroll-proportion="0.4117647" vertical-offset="0" max-vertical-offset="578">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
