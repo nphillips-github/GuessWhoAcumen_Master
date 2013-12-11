@@ -49,7 +49,7 @@ public class QuizActivity extends SalesforceActivity {
                         currentQuestion.correct_AnswerValue = curVal.iD;
                         currentQuestion.imageURL = curVal.fullPhotoUrl;
                         AnswerOption temp = new AnswerOption();
-                        temp.answerText = curVal.firstName + curVal.lastName;
+                        temp.answerText = curVal.firstName + " " + curVal.lastName;
                         temp.answerValue = curVal.iD;
                         temp.otherAttr.put("imageUrl",curVal.fullPhotoUrl);
                         currentQuestion.answerOptions.add(temp);
